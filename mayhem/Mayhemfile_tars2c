@@ -2,5 +2,5 @@ project: tarscpp
 target: tars2c
 
 cmds:
-  - cmd: /tars2c
+  - cmd: /tars2c @@
     filepath: /test.tars
