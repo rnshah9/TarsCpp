@@ -1,0 +1,6 @@
+project: tarscpp
+target: decode
+
+cmds:
+  - cmd: /fuzz_decode
+    libfuzzer: true
